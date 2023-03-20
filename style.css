@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+.Q {
+    color: red;
+}
+h1 {
+    color: red;
+    text-shadow: 4px 4px 5px;
+
+}
+h3 {
+    color: red;
+}
+pre {
+    color: blue;
+    font-size: 15px;
+}
